@@ -1,7 +1,7 @@
 # IronPDF for Ruby
 
-`IronPDF` is a library developed and maintained by [Iron Software](https://ironsoftware.com/) that helps to create, edit and extract PDF content.
-`ironpdf-ruby` is a gem that allows you to use all the advantages of `IronPDF` library in your Ruby applications.
+**IronPDF** is a library developed and maintained by [Iron Software](https://ironsoftware.com/) that helps to create, edit and extract PDF content.
+`ironpdf-ruby` is a gem that allows you to use all the advantages of **IronPDF** library in your Ruby applications.
 
 ## Installation
 
